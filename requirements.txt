@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+pycountry-convert
+seaborn
+xlrd
+statsmodels
+bcrypt
+sklearn
