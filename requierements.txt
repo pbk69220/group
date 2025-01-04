@@ -1,0 +1,9 @@
+streamlit==1.25.0  # Version stable pour Streamlit
+pandas==1.5.3  # Pour la manipulation des données
+numpy==1.24.3  # Nécessaire pour plusieurs calculs scientifiques
+matplotlib==3.7.1  # Bibliothèque de visualisation
+seaborn==0.12.2  # Pour des graphiques statistiques avancés
+plotly==5.16.0  # Pour des graphiques interactifs
+scikit-learn==1.2.2  # Pour les modèles de machine learning
+pillow==9.5.0  # Nécessaire pour la compatibilité avec matplotlib
+pydeck==0.8.0  # Optionnel, pour les visualisations géographiques avec Streamlit
